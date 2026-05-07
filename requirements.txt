@@ -1,6 +1,8 @@
 streamlit
-pandas
-numpy
-scikit-learn
-matplotlib
 groq
+pandas
+SpeechRecognition
+gTTS
+plotly
+requests
+PyAudio
